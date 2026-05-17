@@ -104,6 +104,16 @@ python -c "from src.data.make_dataset import build_processed_datasets; build_pro
 python -c "import pandas as pd; from src.models.demand_forecasting_xgboost import train_xgboost_forecaster; train_xgboost_forecaster(pd.read_csv('data/processed/demand_features.csv'))"
 ```
 
+## Exploratory Data Analysis
+
+The main EDA notebook is:
+
+```text
+notebooks/01_data_exploration.ipynb
+```
+
+It includes data quality checks, missing values, distributions, time-series patterns, peak-risk investigation, outlier review, feature analysis, correlation analysis, lag diagnostics, time-based train/test split, a scikit-learn preprocessing pipeline, error analysis, feature importance, 2030 demand scenarios and nuclear capacity exploration.
+
 ## Run the Dashboard
 
 ```bash
