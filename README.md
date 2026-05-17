@@ -1,5 +1,11 @@
 # Energy Intelligence Platform: Demand Forecasting, Peak Risk Scoring & Nuclear Capacity Analytics
 
+## Live Dashboard
+
+Streamlit app:
+
+https://energy-intelligence-platform.streamlit.app/
+
 ## Business Problem
 
 Energy companies, utilities, grid operators and consultants need to forecast electricity demand, identify peak-risk periods, understand baseload capacity and communicate analytical results to decision makers.
