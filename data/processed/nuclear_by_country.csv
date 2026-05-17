@@ -1,0 +1,14 @@
+country,capacity_mw,reactor_count,annual_generation_gwh
+United States,97000,94,780000
+China,90000,88,435000
+France,61000,56,320000
+Russia,28000,37,224000
+South Korea,25000,26,176000
+India,13880,31,48000
+Canada,13600,19,82000
+Japan,11600,12,61000
+United Kingdom,9140,11,41000
+UAE,5380,4,32000
+Egypt,4800,4,0
+Turkey,4800,4,0
+Germany,0,0,0

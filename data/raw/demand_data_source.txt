@@ -1,0 +1,4 @@
+Demand dataset: PJM East hourly energy consumption data.
+Original context: PJM hourly energy consumption dataset.
+Downloaded mirror URL: https://raw.githubusercontent.com/analyticsbyted/time_series_forecasting/main/PJME_hourly.csv
+Place an updated PJM/EIA CSV in data/raw/ to replace this file.

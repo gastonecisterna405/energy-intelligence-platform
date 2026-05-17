@@ -1,0 +1,181 @@
+country,region,year,scenario,projected_capacity_mw,current_capacity_mw,under_construction_capacity_mw
+Canada,North America,2025,Low,13600.0,13600,0.0
+Canada,North America,2025,Base,13600.0,13600,0.0
+Canada,North America,2025,High,13600.0,13600,0.0
+Canada,North America,2026,Low,13600.0,13600,0.0
+Canada,North America,2026,Base,13600.0,13600,0.0
+Canada,North America,2026,High,13600.0,13600,0.0
+Canada,North America,2027,Low,13600.0,13600,0.0
+Canada,North America,2027,Base,13600.0,13600,0.0
+Canada,North America,2027,High,13600.0,13600,0.0
+Canada,North America,2028,Low,13600.0,13600,0.0
+Canada,North America,2028,Base,13600.0,13600,0.0
+Canada,North America,2028,High,13600.0,13600,0.0
+Canada,North America,2029,Low,13600.0,13600,0.0
+Canada,North America,2029,Base,13600.0,13600,0.0
+Canada,North America,2029,High,13600.0,13600,0.0
+Canada,North America,2030,Low,13600.0,13600,0.0
+Canada,North America,2030,Base,13600.0,13600,0.0
+Canada,North America,2030,High,13600.0,13600,0.0
+China,Asia,2025,Low,57000.0,57000,33000.0
+China,Asia,2025,Base,57000.0,57000,33000.0
+China,Asia,2025,High,57000.0,57000,33000.0
+China,Asia,2026,Low,59640.0,57000,33000.0
+China,Asia,2026,Base,61620.0,57000,33000.0
+China,Asia,2026,High,63600.0,57000,33000.0
+China,Asia,2027,Low,62280.0,57000,33000.0
+China,Asia,2027,Base,66240.0,57000,33000.0
+China,Asia,2027,High,70200.0,57000,33000.0
+China,Asia,2028,Low,64920.0,57000,33000.0
+China,Asia,2028,Base,70860.0,57000,33000.0
+China,Asia,2028,High,76800.0,57000,33000.0
+China,Asia,2029,Low,67560.0,57000,33000.0
+China,Asia,2029,Base,75480.0,57000,33000.0
+China,Asia,2029,High,83400.0,57000,33000.0
+China,Asia,2030,Low,70200.0,57000,33000.0
+China,Asia,2030,Base,80100.0,57000,33000.0
+China,Asia,2030,High,90000.0,57000,33000.0
+France,Europe,2025,Low,61000.0,61000,0.0
+France,Europe,2025,Base,61000.0,61000,0.0
+France,Europe,2025,High,61000.0,61000,0.0
+France,Europe,2026,Low,61000.0,61000,0.0
+France,Europe,2026,Base,61000.0,61000,0.0
+France,Europe,2026,High,61000.0,61000,0.0
+France,Europe,2027,Low,61000.0,61000,0.0
+France,Europe,2027,Base,61000.0,61000,0.0
+France,Europe,2027,High,61000.0,61000,0.0
+France,Europe,2028,Low,61000.0,61000,0.0
+France,Europe,2028,Base,61000.0,61000,0.0
+France,Europe,2028,High,61000.0,61000,0.0
+France,Europe,2029,Low,61000.0,61000,0.0
+France,Europe,2029,Base,61000.0,61000,0.0
+France,Europe,2029,High,61000.0,61000,0.0
+France,Europe,2030,Low,61000.0,61000,0.0
+France,Europe,2030,Base,61000.0,61000,0.0
+France,Europe,2030,High,61000.0,61000,0.0
+India,Asia,2025,Low,8180.0,8180,5700.0
+India,Asia,2025,Base,8180.0,8180,5700.0
+India,Asia,2025,High,8180.0,8180,5700.0
+India,Asia,2026,Low,8636.0,8180,5700.0
+India,Asia,2026,Base,8978.0,8180,5700.0
+India,Asia,2026,High,9320.0,8180,5700.0
+India,Asia,2027,Low,9092.0,8180,5700.0
+India,Asia,2027,Base,9776.0,8180,5700.0
+India,Asia,2027,High,10460.0,8180,5700.0
+India,Asia,2028,Low,9548.0,8180,5700.0
+India,Asia,2028,Base,10574.0,8180,5700.0
+India,Asia,2028,High,11600.0,8180,5700.0
+India,Asia,2029,Low,10004.0,8180,5700.0
+India,Asia,2029,Base,11372.0,8180,5700.0
+India,Asia,2029,High,12740.0,8180,5700.0
+India,Asia,2030,Low,10460.0,8180,5700.0
+India,Asia,2030,Base,12170.0,8180,5700.0
+India,Asia,2030,High,13880.0,8180,5700.0
+Japan,Asia,2025,Low,11600.0,11600,0.0
+Japan,Asia,2025,Base,11600.0,11600,0.0
+Japan,Asia,2025,High,11600.0,11600,0.0
+Japan,Asia,2026,Low,11600.0,11600,0.0
+Japan,Asia,2026,Base,11600.0,11600,0.0
+Japan,Asia,2026,High,11600.0,11600,0.0
+Japan,Asia,2027,Low,11600.0,11600,0.0
+Japan,Asia,2027,Base,11600.0,11600,0.0
+Japan,Asia,2027,High,11600.0,11600,0.0
+Japan,Asia,2028,Low,11600.0,11600,0.0
+Japan,Asia,2028,Base,11600.0,11600,0.0
+Japan,Asia,2028,High,11600.0,11600,0.0
+Japan,Asia,2029,Low,11600.0,11600,0.0
+Japan,Asia,2029,Base,11600.0,11600,0.0
+Japan,Asia,2029,High,11600.0,11600,0.0
+Japan,Asia,2030,Low,11600.0,11600,0.0
+Japan,Asia,2030,Base,11600.0,11600,0.0
+Japan,Asia,2030,High,11600.0,11600,0.0
+Russia,Europe/Asia,2025,Low,28000.0,28000,0.0
+Russia,Europe/Asia,2025,Base,28000.0,28000,0.0
+Russia,Europe/Asia,2025,High,28000.0,28000,0.0
+Russia,Europe/Asia,2026,Low,28000.0,28000,0.0
+Russia,Europe/Asia,2026,Base,28000.0,28000,0.0
+Russia,Europe/Asia,2026,High,28000.0,28000,0.0
+Russia,Europe/Asia,2027,Low,28000.0,28000,0.0
+Russia,Europe/Asia,2027,Base,28000.0,28000,0.0
+Russia,Europe/Asia,2027,High,28000.0,28000,0.0
+Russia,Europe/Asia,2028,Low,28000.0,28000,0.0
+Russia,Europe/Asia,2028,Base,28000.0,28000,0.0
+Russia,Europe/Asia,2028,High,28000.0,28000,0.0
+Russia,Europe/Asia,2029,Low,28000.0,28000,0.0
+Russia,Europe/Asia,2029,Base,28000.0,28000,0.0
+Russia,Europe/Asia,2029,High,28000.0,28000,0.0
+Russia,Europe/Asia,2030,Low,28000.0,28000,0.0
+Russia,Europe/Asia,2030,Base,28000.0,28000,0.0
+Russia,Europe/Asia,2030,High,28000.0,28000,0.0
+South Korea,Asia,2025,Low,25000.0,25000,0.0
+South Korea,Asia,2025,Base,25000.0,25000,0.0
+South Korea,Asia,2025,High,25000.0,25000,0.0
+South Korea,Asia,2026,Low,25000.0,25000,0.0
+South Korea,Asia,2026,Base,25000.0,25000,0.0
+South Korea,Asia,2026,High,25000.0,25000,0.0
+South Korea,Asia,2027,Low,25000.0,25000,0.0
+South Korea,Asia,2027,Base,25000.0,25000,0.0
+South Korea,Asia,2027,High,25000.0,25000,0.0
+South Korea,Asia,2028,Low,25000.0,25000,0.0
+South Korea,Asia,2028,Base,25000.0,25000,0.0
+South Korea,Asia,2028,High,25000.0,25000,0.0
+South Korea,Asia,2029,Low,25000.0,25000,0.0
+South Korea,Asia,2029,Base,25000.0,25000,0.0
+South Korea,Asia,2029,High,25000.0,25000,0.0
+South Korea,Asia,2030,Low,25000.0,25000,0.0
+South Korea,Asia,2030,Base,25000.0,25000,0.0
+South Korea,Asia,2030,High,25000.0,25000,0.0
+UAE,Middle East,2025,Low,5380.0,5380,0.0
+UAE,Middle East,2025,Base,5380.0,5380,0.0
+UAE,Middle East,2025,High,5380.0,5380,0.0
+UAE,Middle East,2026,Low,5380.0,5380,0.0
+UAE,Middle East,2026,Base,5380.0,5380,0.0
+UAE,Middle East,2026,High,5380.0,5380,0.0
+UAE,Middle East,2027,Low,5380.0,5380,0.0
+UAE,Middle East,2027,Base,5380.0,5380,0.0
+UAE,Middle East,2027,High,5380.0,5380,0.0
+UAE,Middle East,2028,Low,5380.0,5380,0.0
+UAE,Middle East,2028,Base,5380.0,5380,0.0
+UAE,Middle East,2028,High,5380.0,5380,0.0
+UAE,Middle East,2029,Low,5380.0,5380,0.0
+UAE,Middle East,2029,Base,5380.0,5380,0.0
+UAE,Middle East,2029,High,5380.0,5380,0.0
+UAE,Middle East,2030,Low,5380.0,5380,0.0
+UAE,Middle East,2030,Base,5380.0,5380,0.0
+UAE,Middle East,2030,High,5380.0,5380,0.0
+United Kingdom,Europe,2025,Low,5880.0,5880,3260.0
+United Kingdom,Europe,2025,Base,5880.0,5880,3260.0
+United Kingdom,Europe,2025,High,5880.0,5880,3260.0
+United Kingdom,Europe,2026,Low,6140.8,5880,3260.0
+United Kingdom,Europe,2026,Base,6336.4,5880,3260.0
+United Kingdom,Europe,2026,High,6532.0,5880,3260.0
+United Kingdom,Europe,2027,Low,6401.6,5880,3260.0
+United Kingdom,Europe,2027,Base,6792.8,5880,3260.0
+United Kingdom,Europe,2027,High,7184.0,5880,3260.0
+United Kingdom,Europe,2028,Low,6662.4,5880,3260.0
+United Kingdom,Europe,2028,Base,7249.2,5880,3260.0
+United Kingdom,Europe,2028,High,7836.0,5880,3260.0
+United Kingdom,Europe,2029,Low,6923.2,5880,3260.0
+United Kingdom,Europe,2029,Base,7705.6,5880,3260.0
+United Kingdom,Europe,2029,High,8488.0,5880,3260.0
+United Kingdom,Europe,2030,Low,7184.0,5880,3260.0
+United Kingdom,Europe,2030,Base,8162.0,5880,3260.0
+United Kingdom,Europe,2030,High,9140.0,5880,3260.0
+United States,North America,2025,Low,97000.0,97000,0.0
+United States,North America,2025,Base,97000.0,97000,0.0
+United States,North America,2025,High,97000.0,97000,0.0
+United States,North America,2026,Low,97000.0,97000,0.0
+United States,North America,2026,Base,97000.0,97000,0.0
+United States,North America,2026,High,97000.0,97000,0.0
+United States,North America,2027,Low,97000.0,97000,0.0
+United States,North America,2027,Base,97000.0,97000,0.0
+United States,North America,2027,High,97000.0,97000,0.0
+United States,North America,2028,Low,97000.0,97000,0.0
+United States,North America,2028,Base,97000.0,97000,0.0
+United States,North America,2028,High,97000.0,97000,0.0
+United States,North America,2029,Low,97000.0,97000,0.0
+United States,North America,2029,Base,97000.0,97000,0.0
+United States,North America,2029,High,97000.0,97000,0.0
+United States,North America,2030,Low,97000.0,97000,0.0
+United States,North America,2030,Base,97000.0,97000,0.0
+United States,North America,2030,High,97000.0,97000,0.0

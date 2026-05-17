@@ -1,0 +1,6 @@
+query_name,row_count
+average_demand_by_month,37
+peak_demand_periods,20
+high_risk_days,72
+nuclear_capacity_by_country,13
+forecast_error_by_period,5223

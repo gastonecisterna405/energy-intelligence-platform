@@ -1,0 +1,7 @@
+region,capacity_mw,reactor_count,annual_generation_gwh
+Asia,140480,157,720000
+North America,110600,113,862000
+Europe,70140,67,361000
+Europe/Asia,28000,37,224000
+Middle East,10180,8,32000
+Africa,4800,4,0

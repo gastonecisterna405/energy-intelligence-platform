@@ -1,0 +1,10 @@
+__pycache__/
+.pytest_cache/
+.venv/
+*.pyc
+outputs/*.db
+outputs/.matplotlib/
+data/raw/*.zip
+data/raw/*.parquet
+data/processed/*.parquet
+.DS_Store
